@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "username": "yeni1",
+      "fullname": "yeni",
+      "password": "2c51c34ce625deaaf18436cbba5d8531d0510a6c",
+      "id": 1
+    },
+    {
+      "username": "yeni2",
+      "fullname": "yeni",
+      "password": "ebdf6be86b6df381f974a8345b8248e8645d348f",
+      "id": 2
+    },
+    {
+      "username": "yeni3",
+      "fullname": "yeni3",
+      "password": "471b108c07278dd9ec7c3b4796983a916c7e9f7d",
+      "id": 3
+    },
+    {
+      "username": "yeni3",
+      "fullname": "yeni3",
+      "password": "471b108c07278dd9ec7c3b4796983a916c7e9f7d",
+      "id": 4
+    },
+    {
+      "username": "3",
+      "fullname": "3",
+      "password": "471b108c07278dd9ec7c3b4796983a916c7e9f7d",
+      "id": 5
+    }
+  ],
+  "user_likes": [],
+  "user_bookmarks": [],
+  "bookmarks": [
+    {
+      "title": "book1",
+      "url": "www.book1.com",
+      "categoryId": 3,
+      "description": "book 1 deneme",
+      "userId": 1,
+      "created_at": "2023-07-21T08:13:56.037Z",
+      "id": 1
+    },
+    {
+      "title": "book2",
+      "url": "www.book2.com",
+      "categoryId": 5,
+      "description": "book2 deneme ",
+      "userId": 1,
+      "created_at": "2023-07-21T08:23:59.024Z",
+      "id": 2
+    },
+    {
+      "title": "poem1",
+      "url": "www.poem1.com",
+      "categoryId": 6,
+      "description": "poem1 açıklama ",
+      "userId": 2,
+      "created_at": "2023-07-21T09:49:52.267Z",
+      "id": 4
+    },
+    {
+      "title": "vue js dokümantasyon",
+      "url": "www.vuejs.com",
+      "categoryId": 1,
+      "description": "vue js açıklama ",
+      "userId": 2,
+      "created_at": "2023-07-21T11:22:37.597Z",
+      "id": 5
+    },
+    {
+      "title": "vue js dokümantasyon",
+      "url": "www.vuejs.com",
+      "categoryId": 1,
+      "description": "vue js açıklama ",
+      "userId": 2,
+      "created_at": "2023-07-21T11:22:37.662Z",
+      "id": 6
+    },
+    {
+      "title": "react ile hello world ",
+      "url": "www.reactjs.com",
+      "categoryId": 2,
+      "description": "react açıklama ",
+      "userId": 2,
+      "created_at": "2023-07-21T11:23:29.262Z",
+      "id": 7
+    },
+    {
+      "title": "yeni yer imi ",
+      "url": "http//.....",
+      "categoryId": 1,
+      "description": "aaaaa",
+      "userId": 1,
+      "created_at": "2023-07-27T08:51:46.600Z",
+      "id": 8
+    },
+    {
+      "title": "deneme ",
+      "url": "htttp:/deneme.com",
+      "categoryId": 2,
+      "description": "asd",
+      "userId": 1,
+      "created_at": "2023-07-27T10:54:45.191Z",
+      "id": 9
+    },
+    {
+      "title": "olcak",
+      "url": "umarım",
+      "categoryId": 3,
+      "description": "olsun artık ",
+      "userId": 1,
+      "created_at": "2023-07-27T11:25:47.526Z",
+      "id": 10
+    },
+    {
+      "title": "oldu",
+      "url": "olmalı",
+      "categoryId": 3,
+      "description": "olacak ",
+      "userId": 1,
+      "created_at": "2023-07-27T11:26:52.136Z",
+      "id": 11
+    },
+    {
+      "title": "deneme1",
+      "url": "deneme1url",
+      "categoryId": 1,
+      "description": "asdasdsadsadasd",
+      "userId": 1,
+      "created_at": "2023-08-03T10:53:55.881Z",
+      "id": 12
+    },
+    {
+      "title": "deneme2",
+      "url": "deneme2.url",
+      "categoryId": 2,
+      "description": "asdasdasd",
+      "userId": 1,
+      "created_at": "2023-08-03T10:54:27.182Z",
+      "id": 13
+    },
+    {
+      "title": "yeni ekleme",
+      "url": "new.com",
+      "categoryId": 5,
+      "description": "yeni ekledim ",
+      "userId": 1,
+      "created_at": "2023-08-04T07:13:22.375Z",
+      "id": 14
+    },
+    {
+      "title": "son deneme",
+      "url": "asdsad",
+      "categoryId": 6,
+      "description": "asdasd",
+      "userId": 1,
+      "created_at": "2023-08-04T12:46:19.186Z",
+      "id": 15
+    },
+    {
+      "title": "asdasd",
+      "url": "asdasd",
+      "categoryId": 1,
+      "description": "asdasd",
+      "userId": 1,
+      "created_at": "2023-08-18T08:44:08.754Z",
+      "id": 16
+    },
+    {
+      "title": "asdasd",
+      "url": "asdasd",
+      "categoryId": 1,
+      "description": "asdasd",
+      "userId": 1,
+      "created_at": "2023-08-18T08:44:44.152Z",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    },
+    {
+      "name": "Cloud",
+      "id": 5
+    },
+    {
+      "name": "Sosyal",
+      "id": 6
+    }
+  ]
+}
